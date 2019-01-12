@@ -1,0 +1,31 @@
+1.TO RUN IN WINDOWS
+
+To compile and run : F11 key
+ 
+2.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++ main.c -lGL -lglut -lGLU -lGLEW
+
+    where main.c is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+
+Draw Line Code
+U can use it to draw line by mouse 
+
+right click : for menu option
+left click : to draw line
+
+control:
+1 | left move  
+2 | down move 
+3 | right move 
+5 | up move
++ | scale up
+- | scal down

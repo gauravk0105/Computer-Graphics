@@ -1,0 +1,22 @@
+Project : Board hit
+
+1.TO RUN IN WINDOWS
+
+To compile and run : F11 key
+ 
+2.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++ main.c -lGL -lglut -lGLU -lGLEW
+
+    where main.c is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+use 'f' to fire the archery
+10 times u can fire it
+finally to get your score
