@@ -1,0 +1,17 @@
+Point
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  point_with_viewport.cpp  -lglut -lGL -lGLU
+            OR
+            g++  point_without_viewport.cpp  -lglut -lGL -lGLU
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+

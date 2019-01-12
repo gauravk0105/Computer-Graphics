@@ -1,0 +1,25 @@
+Circle Algorithm
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  main.cpp  -lglut -lGL -lGLU
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+
+User has to input : Enter the radius   
+
+
+include file : 
+
+
+        init.h == contain intialize function
+        CicleAlgorithm.h == contain cirlce algo code
+        master.cpp == file to run

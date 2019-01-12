@@ -1,0 +1,16 @@
+Window To Viewport ||  without viewport
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  with_viewport.cpp  -lglut -lGL -lGLU
+            OR
+            g++  without_viewport.cpp  -lglut -lGL -lGLU
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out

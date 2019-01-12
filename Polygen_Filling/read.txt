@@ -1,0 +1,23 @@
+Polygen Filling Algorithm
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  flood.cpp  -lglut -lGL -lGLU
+            OR
+            g++  fill.cpp  -lglut -lGL -lGLU
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+
+User has to input : Enter the Major and Minor Length   
+
+
+        fill.cpp == contain code 
+        flood.h == contain code in which mouse is made to provide event to occur color in tirangle

@@ -1,0 +1,25 @@
+Ellispe Algorithm
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  ellipse_all_octant.cpp  -lglut -lGL -lGLU
+            OR
+            g++  ellipse_first_octant.cpp  -lglut -lGL -lGLU
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+
+User has to input : Enter the Major and Minor Length   
+
+
+include file : 
+
+        ellipse_all_octant.h == contain code for ellispe drawing in all octant
+        ellipse_first_octant.h == contain code for ellispe drawing in first octant

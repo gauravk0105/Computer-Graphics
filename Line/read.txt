@@ -1,0 +1,26 @@
+Line Algorithm
+
+1.TO RUN IN LINUX
+
+To compile :
+    --> Go to the folder
+    --> And Type: 
+            g++  master.cpp  -lglut -lGL -lGLU
+            
+
+    where master.cpp is the main file
+    
+To run:
+    --> Type:
+            ./a.out
+
+
+User has to input : Enter the End Point of Line   
+
+
+include file : 
+
+        init.h == contain code for ellispe drawing in all octant
+        line algorithm.h : contain
+                           DDA 
+                           Mid Point Algo  
